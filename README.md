@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am an IT engineering student focusing on Cybersecurity at KTH. My interests fall within blue teaming and threat analysis.
+
+### Studies
+
+- [MSc Cybersecurity](https://www.kth.se/en/studies/master/cybersecurity/msc-cybersecurity-1.1076022)
+- [BSc in Engineering, Information Technology](https://www.kth.se/utbildning/civilingenjor/informationsteknik/informationsteknik-civilingenjor-300-hp-1.4120)
 <!--
 **noizy-sthlm/noizy-sthlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
