@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an IT engineering student focusing on Cybersecurity at KTH. My interests fall within blue teaming and threat analysis.
+I am a Cybersecurity MSc student at KTH
 
 ### Current Studies
 
